@@ -3,7 +3,7 @@ applicationName: tailwindtraders
 
 image:
   repository: omegamadlabtfonaz4acr.azurecr.io/tfonazure
-  tag: latest
+  tag: v1
   pullPolicy: Always
 
 service:
