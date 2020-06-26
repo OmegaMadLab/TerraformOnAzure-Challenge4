@@ -19,3 +19,9 @@ Then, I used **build-and-deploy.sh** inside the folder where I cloned the repo t
 - deploy the app with Helm
 
 I executed all the steps above on Ubuntu 18.04 WSL2.
+
+My other repos, on for each challenge:
++ [Challenge 1](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge1)
++ [Challenge 2](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge2)
++ [Challenge 3](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge3)
++ [Challenge 5](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge5)
