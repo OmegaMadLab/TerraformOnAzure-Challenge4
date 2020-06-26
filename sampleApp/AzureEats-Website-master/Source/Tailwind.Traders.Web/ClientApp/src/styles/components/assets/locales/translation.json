@@ -1,0 +1,89 @@
+{
+  "en": {
+    "translation": {
+      "home.hero.shiping": "Free Rocketshipping",
+      "home.hero.orders": "For $1000 or more space snacks",
+
+      "home.recommended.recommended": "Recommended",
+      "home.recommended.uploadPhotoTitle": "By uploading a photo",
+      "home.recommended.uploadPhotoSubtitle": "start smart shopping",
+
+      "home.popular.products": "Popular Space snacks",
+      "home.recommended.products": "Recommended Space snacks",
+      "home.getapp.title": "Get your mobile Azure Eats App",
+      "home.getapp.subtitle": "Try our smart shopping app for easy ",
+      "home.getapp.appStoreImg": "Download Azure Eats for iOS",
+      "home.getapp.googlePlayImg": "Download Azure Eatsfor Android",
+
+      "mycoupons.title": "My coupons",
+      "mycoupons.subtitle": "Personalized coupons for you based on your purchase history and interest",
+      "mycoupons.big.noCoupons": "This user does not have available big coupons",
+      "mycoupons.small.noCoupons": "This user does not have available small coupons",
+      "mycoupons.smallcoupons.until": "Until",
+      "mycoupons.RecentSearchedProducts.title": "Based on your recent cravings",
+
+      "list.aside.tools": "Original Mars Bars",
+      "list.aside.brands": "Brands",
+      "list.aside.price": "Price",
+      "list.aside.rating": "Rating",
+      "list.aside.more": "Show more",
+      "list.aside.close": "Close",
+      "list.aside.filtersTitle": "Filters",
+
+      "shared.header.homeAppliances": "Moon Cheese",
+      "shared.header.sink": "Brew Dragon",
+      "shared.header.home": "Meteor Flower",
+      "shared.header.gardening": "Comet flakes",
+      "shared.header.decor": "Local Bubble Gum",
+      "shared.header.kitchen": "Betelgazeuse",
+      "shared.header.diytools": "Mars Bars",
+      "shared.header.profile": "Profile",
+      "shared.header.logout": "Logout",
+      "shared.header.loginMicrosoft": "Login with Microsoft account",
+      "shared.header.or": "or",
+      "shared.header.login": "Login",
+      "shared.header.email": "Email",
+      "shared.header.emailPlaceholder": "admin@azureeats.com",
+      "shared.header.password": "Password",
+      "shared.header.passwordPlaceholder": "••••••••",
+
+      "shared.login.claim": "Log in to add your products to the cart and enjoy the purchase!",
+      "shared.login.B2CButton": "Azure Eats Login",
+
+      "shared.banner.uploadPhotoTitle": "upload new photo",
+      "shared.banner.disclaimer": "Based on your photo we found these products for you",
+      "shared.banner.info": "Not what you are looking for?",
+
+      "shared.footer.link": "Azure Eats",
+      "shared.footer.link2": "Terms & Conditions",
+      "shared.footer.link3": "Privacy Policy",
+      "shared.footer.link4": "Help",
+      "shared.footer.link5": "Contact",
+      "shared.footer.disclaimer": "This site was built for demonstration purposes only. This site is not affiliated with Microsoft Azure or any other brand of Microsoft. Any resemblance is pure coincidence.",
+
+      "shared.addToList": "Add to list",
+      "shared.seeMyCoupons": "See my coupons",
+
+      "detail.addToCart": "Add to Cart",
+      "detail.inStock": "In Stock",
+      "detail.outStock": "Out of Stock",
+      "detail.tagName1": "Aisle 12",
+      "detail.tagName2": "Bin 5",
+      "detail.shoppingCart": "Shopping Cart",
+
+      "profile.name": "Name",
+      "profile.address": "Address",
+      "profile.phoneNumber": "Phone number",
+      "profile.email": "Email adress",
+      "profile.customer.title": "Customer Information",
+      "profile.cupons.title": "My Coupons",
+      "profile.cupons.noCupons": "No coupons for default users",
+      "profile.cupons.seeAll": "See All",
+      "profile.history.title": "My Purchase History",
+      "profile.recommended.title": "Recommended For You",
+      "profile.favorite.title": "Favorite Categories",
+
+      "shoppingCart.title": "Your shopping cart"
+    }
+  }
+}
